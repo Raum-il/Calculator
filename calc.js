@@ -1,13 +1,3 @@
-// let oneBtn=document.getElementById('one');
-// let twoBtn=document.getElementById('two');
-// let threeBtn=document.getElementById('three');
-// let fourBtn=document.getElementById('four');
-// let fiveBtn=document.getElementById('five');
-// let sixBtn=document.getElementById('six');
-// let sevenBtn=document.getElementById('seven');
-// let eigthBtn=document.getElementById('eight');
-// let nineBtn=document.getElementById('nine');
-// let zeroBtn=document.getElementById('zero');
 let calcNumBtns = document.getElementsByClassName('num')
 let calcOpeBtns = document.getElementsByClassName('ope')
 
